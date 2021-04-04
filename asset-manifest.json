@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/funKids2021/FunKids/static/css/main.aae7152e.chunk.css",
+    "main.js": "/funKids2021/FunKids/static/js/main.bf0eb632.chunk.js",
+    "runtime-main.js": "/funKids2021/FunKids/static/js/runtime-main.d8115d5f.js",
+    "static/css/2.9c6c16b6.chunk.css": "/funKids2021/FunKids/static/css/2.9c6c16b6.chunk.css",
+    "static/js/2.a8c75370.chunk.js": "/funKids2021/FunKids/static/js/2.a8c75370.chunk.js",
+    "static/js/3.cf1b14cd.chunk.js": "/funKids2021/FunKids/static/js/3.cf1b14cd.chunk.js",
+    "index.html": "/funKids2021/FunKids/index.html",
+    "static/js/2.a8c75370.chunk.js.LICENSE.txt": "/funKids2021/FunKids/static/js/2.a8c75370.chunk.js.LICENSE.txt",
+    "static/media/1.3de60796.jpg": "/funKids2021/FunKids/static/media/1.3de60796.jpg",
+    "static/media/2.57d6d943.jpg": "/funKids2021/FunKids/static/media/2.57d6d943.jpg",
+    "static/media/3.65f690ac.jpg": "/funKids2021/FunKids/static/media/3.65f690ac.jpg",
+    "static/media/4.39ac6b3f.jpg": "/funKids2021/FunKids/static/media/4.39ac6b3f.jpg",
+    "static/media/logo.8c8d42b4.svg": "/funKids2021/FunKids/static/media/logo.8c8d42b4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8115d5f.js",
+    "static/css/2.9c6c16b6.chunk.css",
+    "static/js/2.a8c75370.chunk.js",
+    "static/css/main.aae7152e.chunk.css",
+    "static/js/main.bf0eb632.chunk.js"
+  ]
+}
