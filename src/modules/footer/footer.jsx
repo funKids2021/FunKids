@@ -57,9 +57,8 @@ const Footer = () => {
       
 <div className="col-sm-6">
     <ul className="list contact-list">
-        <li className="contact-list__item"><a href="tel: 142332211">11233-22-11</a></li>
-        <li className="contact-list__item"><a href="tel: 142332211">11233-22-11</a></li>
-        <li className="contact-list__item"><a href="tel: 142332211">11233-22-11</a></li>
+        <li className="contact-list__item"><a href="tel: 0933860123">+38 (093)3860123</a></li>
+ 
 
     </ul>
 </div>

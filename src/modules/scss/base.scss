@@ -44,4 +44,15 @@ img{
     height: 100%;
 }
 
+a{
+    text-align: center;
+text-decoration: none;
+    &:visited {
+        color:inherit;
+    }
+}
+
+h1,h2,h3{
+    color:$dark-text;
+}
  

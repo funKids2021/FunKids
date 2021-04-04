@@ -15,14 +15,21 @@
         margin-top: 5px;
     }
     &__description{
-        font-size: 1em;
+        font-size: 1.2em;
+        font-weight: 500;
+        line-height: 1.9;
+        margin-top: 0;
+        margin-bottom: 10px;
     }
     &--light{
         color:$dark-text;
         background-color:$light;
     }
     &__image{
-        width: 100%;
+        img{
+                 width: 100%;
         object-fit: cover;
+        }
+   
     }
 }

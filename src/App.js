@@ -11,14 +11,17 @@ import Main from './modules/main/Main.jsx';
 import Footer from './modules/footer/footer.jsx';
 
 import Mainpage from './modules/main/pages/Mainpage';
-import Page1 from './modules/main/pages/page1';
-import Page2 from './modules/main/pages/page2';
+import Fb from './modules/main/pages/fb';
+import Animator from './modules/main/pages/Animator';
  
 function App() {
     const nav = {
-      "main": ["Main Page" , Mainpage],
-      "page1": [" Page1" , Page1],
-      "page2": [" Page2" , Page2]
+      "main": ["Главная" , Mainpage],
+      "fb": [" Фанцузский бульвар" , Fb],
+      "caravan": [" Караван" , Mainpage],
+      "art": [" Арт завод " , Mainpage],
+      "animator": [" Аниматоры " , Animator],
+      
       
     }
  

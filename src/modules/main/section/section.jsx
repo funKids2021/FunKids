@@ -1,7 +1,7 @@
 const section = (s) => {
     const ob =s.content;
     let title="";
-    let img="p";
+    let img="";
     let desc="";
     let imgalt="";
     let propClass="";
@@ -20,7 +20,7 @@ const section = (s) => {
   
     return (
 
-            <section className={propClass+" section"}>
+            <section key={title}  className={propClass+" section"}>
                 <div className="container">
                 <h2 className="section__title">{title}</h2>
                 <div className="row">
@@ -28,7 +28,7 @@ const section = (s) => {
                         <figure className="section__image"><img src={img} alt={imgalt}/></figure>
                     </div>
                     <div className="col-md-6">
-                        <p className="section__description"> {desc}</p>
+                        <div className="section__description"> {desc}</div>
                     </div>
                 </div>
                 </div>
